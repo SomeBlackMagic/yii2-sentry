@@ -17,7 +17,7 @@
         "bower-asset/raven-js": "~3.17"
     },
     "require-dev": {
-        "roave/security-advisories": "dev-master"
+        "roave/security-advisories": "dev-master",
         "yiisoft/yii2-codeception": "~2.0",
         "satooshi/php-coveralls": "~1.0",
         "codeception/codeception": "~2.3",
